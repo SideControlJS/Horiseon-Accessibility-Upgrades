@@ -39,6 +39,12 @@ nav {
 
 }
 
+nav a {
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+
 a {
     color: #ffffff;
     text-decoration: none;
