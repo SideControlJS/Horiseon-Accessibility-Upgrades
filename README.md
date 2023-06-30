@@ -4,6 +4,8 @@
 
 I built this project for an SEO marketing company looking to enhance their website's accessibility! This update will allow as many users as possible to access the wesbite. It helps people with disabilities and mobile users and slower internet connections. In this challenge, I learned how to modify HTML and CSS to include semantic elements, HTML structure and hierarchy, and alt attributes on images.
 
+## Locol Repo Screenshot
+
 ![Here's a link to a screen shot showing the location of my code source.](assets/images/week1-homework-screenshot.png)
 
 ## Credits
