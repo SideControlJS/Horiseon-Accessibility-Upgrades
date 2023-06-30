@@ -52,7 +52,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/*I updated this from 'hero' to 'hero-image' to be more intuitive*/
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -93,19 +94,9 @@ article {
     color: #ffffff;
 }
 
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/*I consolidated these selectors into one*/
+.benefit-lead img,
+.benefit-brand img,
 .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -121,19 +112,14 @@ section {
     color: #ffffff;
 }
 
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+/*I consolidated these selectors into one*/
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/*I consolidated these selectors into one*/
 h1, h2, h3, h4, h5, h5 {
     margin-bottom: 20px;
     font-size: 36px;
