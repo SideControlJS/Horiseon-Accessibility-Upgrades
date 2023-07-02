@@ -8,6 +8,12 @@ I built this project for a fictional SEO marketing company looking to enhance th
 
 https://sidecontroljs.github.io/Horiseon-Accessibility-Upgrades/
 
+## Screenshots of Deployed Webpage
+
+![Link to deployed webpage -1](assets/images/screenshot_bottom.png)
+![Link to deployed webpage -2](assets/images/screeshot_mid.png)
+![Link to deployed webpage -3](assets/images/screenshot_bottom.png)
+
 ## Local Repo Screenshot
 
 ![Here's a link to a screen shot showing the location of my code source.](assets/images/week1-homework-screenshot.png)
